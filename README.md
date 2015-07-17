@@ -1,2 +1,0 @@
-# vagrant-LAMP
-# vagrant-LAMP
